@@ -1,1 +1,1 @@
-Projeto feito com a finalzia de realizar a criação de um contador/adiconar tarefas no histórico com a opção de visualizar o seu perfil
+Projeto feito com a finalizade de criar um contador pata tarefas no histórico com a opção de visualizar o perfil.
